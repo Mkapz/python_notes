@@ -1,0 +1,20 @@
+8/4
+
+2.0 -- floating number
+
+8//4
+
+2 ---- integer
+
+(2**8) - two to the power of 8
+
+print('how are \nyou today?')
+how are
+you today?
+
+print('how\'s it going?')
+
+input('how many apples do you have?') ---- communicate with user
+input('how many apples do you have?\n >>> ') ---- communicate with user
+
+user_input= int(input('how many apples do you have?\n >>> ')) ------- save answer into a varable
